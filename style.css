@@ -6,11 +6,6 @@
 
 :root {
 	--first-color: rgb(255, 13, 0);
-	--second-color: rgb(72, 121, 212);
-	--third-color: rgb(203, 218, 0);
-	--hover1-color: rgb(190, 10, 0);
-	--hover2-color: rgb(56, 97, 173);
-	--hover3-color: rgb(193, 207, 0);
 }
 
 body {
