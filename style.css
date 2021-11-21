@@ -236,3 +236,35 @@ button:focus {
 		opacity: 1;
 	}
 }
+
+
+@media (max-width: 768px) {
+	.wrapper {
+		width: 100%;
+	}
+
+	.buttons button {
+		font-size: 14px;
+	}
+
+	.info {
+		flex-direction: column;
+	}
+
+	.colors {
+		top: 100px
+	}
+
+	.color {
+		width: 30px;height: 30px;
+	}
+
+	.modal {
+		width: 90%;
+		height: 400px;
+	}
+
+	button {
+		padding: 10px 10px;
+	}
+}
