@@ -40,7 +40,7 @@ const handleStart = () => {
 			stopWatch.textContent = `${minutes}:00`;
 		}
 		console.log(seconds);
-	}, 100);
+	}, 1000);
 };
 
 const handlePause = () => {
